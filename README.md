@@ -14,3 +14,20 @@ project-name/
 │
 └── src/
     └── main.py
+project-name/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+└── src/
+    ├── data_cleaning.py
+    ├── analysis.py
+    └── visualization.py
